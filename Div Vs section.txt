@@ -1,0 +1,6 @@
+<div>: A general container element that is used to group and style content. It is used for layout and CSS styling and has no semantic value.
+
+<Section>: A semantic HTML5 element that represents a thematic grouping of content on a web page. It aids in the organization of the document and gives significance to the content it contains.
+
+Use <div> for layout and design, and <section> for semantically structuring and organizing content on a webpage.
+
